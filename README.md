@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> This project help to know how to build the portfolio with Bootsrap and portfolio is one of the most powerful tools in our software developer toolbox; it’s the easiest way of showing what we’re truly capable of as a developer, and is a quick and simple way for recruiters and hiring managers to get an idea of what we can bring to their teams.
+> This project help to know how to build the portfolio with Bootstrap and portfolio is one of the most powerful tools in our software developer toolbox; it’s the easiest way of showing what we’re truly capable of as a developer, and is a quick and simple way for recruiters and hiring managers to get an idea of what we can bring to their teams.
 
 ## Description
 
